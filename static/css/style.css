@@ -1,0 +1,79 @@
+*{
+    background-color: rgb(0, 0, 0);
+    font-family: "Tahoma", sans-serif;
+}
+
+h1{
+    margin: 0 auto;
+    color: greenyellow;
+    text-align: center;
+    margin: 8%;
+}
+
+#head{ 
+    width: 100%;
+    margin-bottom: 10%;
+
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(15, 15, 15);
+}
+
+li {
+  float: right;
+}
+
+
+
+form{
+    border-radius: 5px;
+    margin: 0 auto;
+    text-align: center; 
+}
+
+.custom-file-upload{
+    background-color: red;
+    color : white;
+}
+
+#upload{
+  color: white;
+}
+
+p{
+  margin: 0 auto;
+  color:white;
+  text-align: center;
+  margin:1.5%
+}
+
+#return{
+  color:white;
+}
+
+table{
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+td{
+  text-align: center;
+}
+
+table, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+  padding : 10px;
+  
+}
+
+th{
+  padding : 10px;
+}
